@@ -1,3 +1,15 @@
+---
+title: RankSense AI
+emoji: 🎯
+colorFrom: red
+colorTo: orange
+sdk: streamlit
+sdk_version: 1.41.1
+app_file: app.py
+pinned: true
+short_description: Intelligent candidate ranking — BM25 + RankNet, zero keyword matching
+---
+
 # Intelligent Candidate Ranking System
 ### India Runs by Redrob AI — Track 1: Intelligent Candidate Discovery
 
