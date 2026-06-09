@@ -1,0 +1,22 @@
+# Dataset (not pushed — too large)
+[PUB] India_runs_data_and_ai_challenge/
+[PUB] India_runs_data_and_ai_challenge.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
