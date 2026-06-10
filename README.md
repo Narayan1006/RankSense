@@ -2,12 +2,12 @@
 title: RankSense AI
 emoji: 🎯
 colorFrom: red
-colorTo: orange
+colorTo: yellow
 sdk: streamlit
 sdk_version: 1.41.1
 app_file: app.py
 pinned: true
-short_description: Intelligent candidate ranking — BM25 + RankNet, zero keyword matching
+short_description: Intelligent ranking via BM25 & RankNet
 ---
 
 # Intelligent Candidate Ranking System
