@@ -13,6 +13,8 @@ short_description: Intelligent ranking via BM25 & RankNet
 # Intelligent Candidate Ranking System
 ### India Runs by Redrob AI — Track 1: Intelligent Candidate Discovery
 
+**🚀 Live Demo / Deployed App:** [https://huggingface.co/spaces/Narayan1006/Ranksense](https://huggingface.co/spaces/Narayan1006/Ranksense)
+
 ---
 
 ## Overview
