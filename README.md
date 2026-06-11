@@ -15,6 +15,9 @@ short_description: Intelligent ranking via BM25 & RankNet
 
 **🚀 Live Demo / Deployed App:** [https://huggingface.co/spaces/Narayan1006/Ranksense](https://huggingface.co/spaces/Narayan1006/Ranksense)
 
+> [!NOTE]
+> **This is a demo deployment.** The live app runs on Hugging Face Spaces free tier with limited resources. For the full production experience (100k candidates in ~25s), clone the repo and run locally. Upload the provided `test_dataset_1k.jsonl` (1,000 candidates) for a quick demo, or use the full `candidates.jsonl` (100k) for the complete pipeline.
+
 ---
 
 ## Overview
